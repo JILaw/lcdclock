@@ -2,7 +2,7 @@
 //  ViewController.m
 //  LCDClock
 //
-//  Created by PK/PQ Computer on 3/2/18.
+//  Created by PK/PQ Computer on 4/2/18.
 //  Copyright © 2018 PK/PQ Computer. All rights reserved.
 //
 
@@ -36,16 +36,11 @@
 @property (nonatomic) UIColor *selectedColor;
 
 
-
-
-
 @end
 
 @implementation ViewController
 
 BOOL is24Hour;
-
-
 
 
 - (IBAction)settings:(id)sender {
